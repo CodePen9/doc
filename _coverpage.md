@@ -4,7 +4,7 @@
 <h1 align="center">小姜的面试宝典</h1>
 
 [好好学习]()
-[早日财富自由]()
+[My Blog](https://www.cnblogs.com/pengcode/)
 [开始阅读](#docsify-demo)
 
 
