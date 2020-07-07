@@ -27,22 +27,22 @@
 
 ### Java技术栈：
 
-- Java基础：着重考察集合类的底层源码。
-- 多线程高并发：各种锁、synchronized、volatile 、CAS、AQS、ThreadLocal、线程池、juc并发工具类等等
-- JVM：类加载机制、内存模型、JVM调优、垃圾回收、各种算法、JMeter、Hotspot源码等等，
-- 设计模式：工厂、单例、适配器、装饰器、观察者、策略模式等等
-- 数据结构：字符串、数组、链表、二叉树、堆、栈、队列、哈希等等
-- 算法：查找、排序、贪心、分治、动态规划、回溯等等（字节最喜欢考算法）
-- Spring源码：容器初始化、Environment原理 、监听器、IOC、AOP原理等等
-- SpringBoot：Starter原理、启动原理、自动装配原理、整合数据库、整合各种中间件、整合权限等等
-- SpringCloud：熟悉常用组件，注册中心Eureka、Consul、负载均衡器Ribbon，客户端调用工具Rest和Feign，分布式配置中心Config，服务保护Hystrix，网关Zuul ，Api管理Swagger，服务链路Zipkin，消息总线Bus等
-- SpringMVC、MyBatis...
-- MySQL调优：SQL书写优化、事务、乐观锁、悲观锁、索引原理、分区设计和优化等等
-- Redis：数据结构、布隆过滤器、缓存LRU 、持久化RDB、AOF、主从复制、CAP等等
-- zookeeper：集群，高可用，高并发解决方案，服务降级，限流，熔断，隔离等，熟悉分布式和微服务常见解决方案等
-- Netty：NIO、ByteBuffer 、内存管理、channel原理、编码器等等
-- 消息中间件：ActiveMQ、RabbitMQ，Kafka，RocketMQ
-- Elasticsearch、Dubbo、Nginx、还有一些就不多做赘述。。。
+- **Java基础：**着重考察集合类的底层源码。
+- **多线程高并发：**各种锁、synchronized、volatile 、CAS、AQS、ThreadLocal、线程池、juc并发工具类等等
+- **JVM**：类加载机制、内存模型、JVM调优、垃圾回收、各种算法、JMeter、Hotspot源码等等，
+- **设计模式：**工厂、单例、适配器、装饰器、观察者、策略模式等等
+- **数据结构：**字符串、数组、链表、二叉树、堆、栈、队列、哈希等等
+- **算法：**查找、排序、贪心、分治、动态规划、回溯等等（字节最喜欢考算法）
+- **Spring源码：**容器初始化、Environment原理 、监听器、IOC、AOP原理等等
+- **SpringBoot：**Starter原理、启动原理、自动装配原理、整合数据库、整合各种中间件、整合权限等等
+- **SpringCloud：**熟悉常用组件，注册中心Eureka、Consul、负载均衡器Ribbon，客户端调用工具Rest和Feign，分布式配置中心Config，服务保护Hystrix，网关Zuul ，Api管理Swagger，服务链路Zipkin，消息总线Bus等
+- **SpringMVC、MyBatis...**
+- **MySQL调优：**SQL书写优化、事务、乐观锁、悲观锁、索引原理、分区设计和优化等等
+- **Redis：**数据结构、布隆过滤器、缓存LRU 、持久化RDB、AOF、主从复制、CAP等等
+- **zookeeper：**集群，高可用，高并发解决方案，服务降级，限流，熔断，隔离等，熟悉分布式和微服务常见解决方案等
+- **Netty：**NIO、ByteBuffer 、内存管理、channel原理、编码器等等
+- **消息中间件：ActiveMQ、RabbitMQ，Kafka，RocketMQ**
+- **Elasticsearch、Dubbo、Nginx、**还有一些就不多做赘述。。。
 - **还有项目、项目、项目**
 
   
