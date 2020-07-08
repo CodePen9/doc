@@ -50,11 +50,11 @@
 ### Web技术栈：
 
 - 由于不是专门从事前端，只需要学会基本使用即可
-- HTML5+CSS3
-- JavaScript、ES6
-- Node、Webpack
-- Vue、React
-- Bootstrap、layui..
+- **HTML5+CSS3（熟悉）**
+- **JavaScript、ES6（熟悉）**
+- **Node、Webpack（了解）**
+- **Vue、React（了解）**
+- **Bootstrap、layui..（了解）**
 
 -----
 
